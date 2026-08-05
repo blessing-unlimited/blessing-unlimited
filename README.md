@@ -20,9 +20,11 @@ I believe in clean code, continuous learning, and using technology to solve mean
 - HTML, CSS
 - SQL
 - NoSQL
+- Kotlin
 
 **Tools & Platforms**
 - Visual Studio
+- Android Studio
 - GitHub
 - SQL Server
 - Azure (basic exposure)
