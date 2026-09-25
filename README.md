@@ -7,7 +7,7 @@
 ---
 
 ## 👨‍💻 About Me
-I'm a passionate software development student with a strong interest in building practical, real-world solutions. I enjoy learning how systems work under the hood — from databases to backend logic — and I’m constantly improving my skills through projects and hands-on practice.
+I'm a passionate software development student with a strong interest in building practical, real-world solutions. I enjoy learning how systems work under the hood, from databases to backend logic, and I’m constantly improving my skills through projects and hands-on practice.
 
 I believe in clean code, continuous learning, and using technology to solve meaningful problems.
 ---
@@ -17,6 +17,7 @@ I believe in clean code, continuous learning, and using technology to solve mean
 - Java
 - C#
 - ASP.NET MVC
+- .NET API
 - HTML, CSS
 - SQL
 - NoSQL
@@ -28,6 +29,8 @@ I believe in clean code, continuous learning, and using technology to solve mean
 - GitHub
 - SQL Server
 - Azure (basic exposure)
+- Render
+- Vercel
 
 ---
 
